@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{327868A7-BC2E-004F-56CD-2E74FC3FAA5C}") = "Meal Steal-16-04-2016", "Assembly-CSharp.csproj", "{1BD8EF46-49FC-3B43-84A9-109F8DC46BA3}"
+EndProject
+Project("{327868A7-BC2E-004F-56CD-2E74FC3FAA5C}") = "Meal Steal-16-04-2016", "Assembly-CSharp-Editor.csproj", "{6FA448D3-3446-98B4-88A7-CD2FD8666C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD8EF46-49FC-3B43-84A9-109F8DC46BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD8EF46-49FC-3B43-84A9-109F8DC46BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD8EF46-49FC-3B43-84A9-109F8DC46BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD8EF46-49FC-3B43-84A9-109F8DC46BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA448D3-3446-98B4-88A7-CD2FD8666C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA448D3-3446-98B4-88A7-CD2FD8666C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA448D3-3446-98B4-88A7-CD2FD8666C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA448D3-3446-98B4-88A7-CD2FD8666C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																			GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
